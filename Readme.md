@@ -1,7 +1,14 @@
-Dr Daneeja MAWREN
+<h1>Dr Daneeja MAWREN</h1>
+
+<p>Postdoctoral Fellow,
+    </p>
+    
+<p>Department of Oceanography, University of Cape Town</p>
+<p>South African Environment Observation Network (SAEON)</p>
 
 <img src="daneeja.jpg" alt="me" width="200"/>
 
-Postdoctoral Fellow
-Department of Oceanography, University of Cape Town
-South African Environment Observation Network (SAEON)
+
+<h1>Research Interests</h1>
+
+Interested in the dynamics of the tropical oceans, how changes in oceanic processes can trigger extreme events such as marine heatwaves or influence tropical cyclone intensity.
