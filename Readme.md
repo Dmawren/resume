@@ -1,7 +1,7 @@
 <h1>Dr Daneeja MAWREN</h1>
 
-<p>Postdoctoral Fellow</p>
-<p>Department of Oceanography, University of Cape Town</p>
+Postdoctoral Fellowx<p>
+Department of Oceanography, University of Cape Town<p>
 South African Environment Observation Network (SAEON)
 
 <img src="daneeja.jpg" alt="me" width="200"/>
