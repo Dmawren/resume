@@ -4,7 +4,7 @@
     </p>
     
 <p>Department of Oceanography, University of Cape Town</p>
-<p>South African Environment Observation Network (SAEON)</p>
+South African Environment Observation Network (SAEON)
 
 <img src="daneeja.jpg" alt="me" width="200"/>
 
