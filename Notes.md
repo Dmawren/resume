@@ -28,7 +28,7 @@ git log
 
 8) back to terminal
 
-git remote add origin git@github.com:<your username>/resume.git
+git remote add origin git@github.com:Dmawren/resume.git
     
 git branch -M main    
     
