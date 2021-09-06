@@ -1,9 +1,9 @@
 <h2>Dr Daneeja MAWREN</h2>
 
 <h3>Postdoctoral Fellowx</h3>
-<p>University of Cape Town
-<p>South African Environment Observation Network (SAEON)
-
+<p>University of Cape Town | South African Environment Observation Network (SAEON)
+<p>
+    
 <img src="daneeja.jpg" alt="me" width="200"/>
 
 
